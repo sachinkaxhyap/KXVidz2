@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  KX Vidz
+//
+//  Created by Sachin Kaxhyap on 15/02/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = AIzaSyAuXehoqley-Ae48YL7gj3qz3mFkiVGrFU
