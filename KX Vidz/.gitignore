@@ -1,0 +1,11 @@
+# Xcode Specific
+DerivedData/
+xcuserdata/
+*.xcworkspace
+!shared.xcworkspace
+*.xcodeproj/project.xcworkspace/
+
+# API Keys & Config Files
+config.plist
+*.xcconfig
+Secrets/
